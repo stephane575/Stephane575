@@ -7,6 +7,6 @@ I'm a Student at BHASVIC studying maths, further maths, physics and computer sci
 
 **Personal projects**
 
-I made this as part of competing in the 'Ritangle' maths team comptetion where we were advised to use programs and write our own to solve problems. This one calculates possible triples needed for one part of crossnumber we had to solve: 
+I made this as part of competing in the 'Ritangle' maths team comptetion where we were advised to use programs and write our own to solve problems. This one calculates possible triples needed for one part of crossnumber we had to solve: https://github.com/stephane575/Ritangle-code
 
 
