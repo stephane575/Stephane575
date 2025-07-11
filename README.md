@@ -3,7 +3,8 @@
 I'm a Student at BHASVIC studying maths, further maths, physics and computer science. Im an aspiring mathematician applying to Cambridge and long term I'll want to make a have a career applying the maths to computer algorithms or by becoming a theoretical physicist. Currently while focousing on my A levels, I'm also practicing for olympiads and other competitions to challenge and improve my problem solving and critical thinking. In my first year I've managed to get best in my year group in the senior maths challenge and the British Mathematical Olympiad round 1, getting a gold and a merit respectively, and I've also got a gold in the online physics challenge.
 
 
-**projects at college**
+**Projects at college**
+
 
 **Personal projects**
 
