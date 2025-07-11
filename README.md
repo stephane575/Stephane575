@@ -1,25 +1,12 @@
-###About me 
-#I'm a Student at BHASVIC studying maths, further maths, physics and computer science. Im an aspiring mathematician applying to Cambridge and long term I'll want to make a have a career applying the maths to computer algorithms or by becoming a theoretical physicist. Currently while focousing on my A levels, I'm also practicing for olympiads and other competitions to challenge and improve my problem solving and critical thinking. In my first year I've managed to get best in my year group in the senior maths challenge and the British Mathematical Olympiad round 1, getting a gold and a merit respectively, and I've also got a gold in the online physics challenge.
+**About me** 
 
-##projects at college
-
-
-##Personal projects
-#I made this as part of competing in the 'Ritangle' maths team comptetion where we were advised to use programs and write our own to solve problems. This one calculates possible triples needed for one part of crossnumber we had to solve: 
+I'm a Student at BHASVIC studying maths, further maths, physics and computer science. Im an aspiring mathematician applying to Cambridge and long term I'll want to make a have a career applying the maths to computer algorithms or by becoming a theoretical physicist. Currently while focousing on my A levels, I'm also practicing for olympiads and other competitions to challenge and improve my problem solving and critical thinking. In my first year I've managed to get best in my year group in the senior maths challenge and the British Mathematical Olympiad round 1, getting a gold and a merit respectively, and I've also got a gold in the online physics challenge.
 
 
-<!--
-**stephane575/Stephane575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**projects at college**
 
-Here are some ideas to get you started:
+**Personal projects**
 
-- 🔭 I’m currently working on...
+I made this as part of competing in the 'Ritangle' maths team comptetion where we were advised to use programs and write our own to solve problems. This one calculates possible triples needed for one part of crossnumber we had to solve: 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
