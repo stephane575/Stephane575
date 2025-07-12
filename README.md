@@ -4,8 +4,11 @@ I'm a Student at BHASVIC studying maths, further maths, physics and computer sci
 
 
 **Projects at college**
+
 The first project we made in groups at college was a system to manage users in 'hotel kashyyyk' : https://github.com/stephane575/Hotel-Kashyyyk
+
 Another project we made in groups was 'animalopoly' which is our version of monopoly but with animals instead of estates : https://github.com/stephane575/Animalopoly
+
 I also made a connect 4 while learning how to code in java : https://github.com/stephane575/Connect-4
 
 
